@@ -24,11 +24,11 @@ const Item = ({title, desc, backgroundImg, leftBtnTxt, leftBtnLink, rightBtnTxt,
                             )
                         }
                     </div>
-                    {first && (
+                    {/* {first && (
                         <div className = "item__expand">
-                            {/*<ExpandMoreIcon/>*/}
+                            {<ExpandMoreIcon/>}
                         </div>
-                    )}
+                    )} */}
                 </div>
             </div>
         </div>
